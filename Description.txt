@@ -1,0 +1,1 @@
+The repo consist of a miniature form of GPT.it was created under the guide of youtube video by andrej.it consist of a ~10M parrameter model trained on shakespheres play.training was conducted in T4 Gpu provided by colab.
