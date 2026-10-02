@@ -1,0 +1,1 @@
+implemented decoder transformer called NanoGPT.it is trained on Tiny shakesphere dataset that consist of plays written by shakesphere.the training was done on colab`s T4 GPU.it output text in the style of shakesphere language.
